@@ -1,0 +1,9 @@
+.headshot {
+  width: 400px;
+  height: 300px;
+  -webkit-transform: rotate(90deg) scale(1) skew(1deg) translate(0px);
+  -moz-transform: rotate(90deg) scale(1) skew(1deg) translate(0px);
+  -o-transform: rotate(90deg) scale(1) skew(1deg) translate(0px);
+  -ms-transform: rotate(90deg) scale(1) skew(1deg) translate(0px);
+  transform: rotate(90deg) scale(1) skew(1deg) translate(0px);
+}
